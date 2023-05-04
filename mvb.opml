@@ -12,20 +12,36 @@
             xmlUrl="https://fasterthanli.me/index.xml"/>
       <outline text="Analog Hors" title="Analog Hors - Writing" type="rss" 
             xmlUrl="https://analog-hors.github.io/site/writing//feed" htmlUrl="https://analog-hors.github.io/site/"/>
+      <outline text="Andrew Gallant" title="Andrew Gallant" type="rss" 
+            xmlUrl="https://blog.burntsushi.net/index.xml" htmlUrl="https://blog.burntsushi.net/"/>
       <outline text="Apollo Labs" title="Apollo Labs Tech Blog" type="rss" 
             xmlUrl="https://apollolabsblog.hashnode.dev/rss.xml" htmlUrl="https://apollolabsblog.hashnode.dev"/>
+      <outline text="Aria Beingessner (Faultlore)" title="Aria Beingessner (Faultlore)" type="rss" 
+            xmlUrl="https://faultlore.com/blah/rss.xml" htmlUrl="https://gankra.github.io/blah/"/>
+      <outline text="Ferrous Systems" title="Ferrous Systems" type="rss" 
+            xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
       <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
             xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
       <outline text="Josh Mo" title="Rust and Web Dev with Josh" type="rss" 
             xmlUrl="https://joshmo.hashnode.dev/rss.xml" htmlUrl="https://joshmo.hashnode.dev"/>
-      <outline text="Luca Palmieri" title="Luca Palmieri" type="rss" 
-            xmlUrl="https://www.lpalmieri.com/rss.xml" htmlUrl="https://www.lpalmieri.com"/>
+      <outline text="Joshua Nelson" title="Joshua Nelson" type="rss" 
+            xmlUrl="https://jyn.dev/feed.xml" htmlUrl="http://jyn.dev/"/>
       <outline text="Kani Rust Verifier" title="Kani Rust Verifier" type="rss" 
             xmlUrl="https://model-checking.github.io//kani-verifier-blog/feed.xml" htmlUrl="https://model-checking.github.io//kani-verifier-blog/"/>
+      <outline text="Luca Palmieri" title="Luca Palmieri" type="rss" 
+            xmlUrl="https://www.lpalmieri.com/rss.xml" htmlUrl="https://www.lpalmieri.com"/>
+      <outline text="Manish Goregaokar" title="Manish Goregaokar" type="rss" 
+            xmlUrl="https://manishearth.github.io/atom.xml"/>
+      <outline text="Mara Bos" title="Mara Bos" type="rss" 
+            xmlUrl="https://blog.m-ou.se/index.xml" htmlUrl="https://blog.m-ou.se/"/>
       <outline text="Nazmul Idris" title="Nazmul Idris" type="rss" 
             xmlUrl="http://developerlife.com/feed.xml" htmlUrl="http://developerlife.com/"/>
       <outline text="Nick Cameron" title="Nick Cameron" type="rss" 
             xmlUrl="https://www.ncameron.org/blog/rss/" htmlUrl="https://www.ncameron.org/blog/"/>
+      <outline text="Nick Fitzgerald" title="Nick Fitzgerald" type="rss" 
+            xmlUrl="http://fitzgeraldnick.com/feed.xml" htmlUrl="http://fitzgeraldnick.com/"/>
+      <outline text="Pascal Hertleif" title="Pascal&#39;s Scribbles" type="rss" 
+            xmlUrl="https://deterministic.space//feed" htmlUrl="https://deterministic.space/"/>
       <outline text="Prossimo" title="Prossimo" type="rss" 
             xmlUrl="https://www.memorysafety.org/index.xml" htmlUrl="https://www.memorysafety.org/"/>
       <outline text="Quickwit" title="Quickwit" type="rss" 
@@ -34,6 +50,8 @@
             xmlUrl="https://rust-analyzer.github.io//feed.xml" htmlUrl="https://rust-analyzer.github.io//"/>
       <outline text="Rust Blog" title="Rust Blog" type="rss" 
             xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+      <outline text="Rust Foundation" title="Rust Foundation" type="rss" 
+            xmlUrl="https://foundation.rust-lang.org/feed/feed.xml"/>
       <outline text="Rust in Blockchain" title="Rust in Blockchain ❤ rib.rs" type="rss" 
             xmlUrl="https://rustinblockchain.org/./index.xml" htmlUrl="https://rustinblockchain.org/"/>
       <outline text="Rust on Espressif chips" title="Rust on Espressif chips" type="rss" 
@@ -48,6 +66,10 @@
             xmlUrl="https://this-week-in-rust.org/rss.xml" htmlUrl="https://this-week-in-rust.org/"/>
       <outline text="Sean McArthur" title="Sean McArthur" type="rss" 
             xmlUrl="https://seanmonstar.com/rss" htmlUrl="https://seanmonstar.com/"/>
+      <outline text="Simonas Kazlauskas" title="Simonas Kazlauskas" type="rss" 
+            xmlUrl="https://kazlauskas.me/./feed.atom"/>
+      <outline text="Steve Klabnik" title="Steve Klabnik" type="rss" 
+            xmlUrl="https://steveklabnik.com/feed.xml" htmlUrl="https://steveklabnik.com/"/>
       <outline text="Sylvain Kerkour" title="Sylvain Kerkour" type="rss" 
             xmlUrl="https://kerkour.com/feed.xml" htmlUrl="https://kerkour.com"/>
       <outline text="Tauri" title="Tauri Apps RSS Feed" type="rss" 
