@@ -8,6 +8,8 @@
             xmlUrl="https://hiro.codes/index.xml" htmlUrl="https://hiro.codes"/>
       <outline text="Adrian Taylor" title="RSS" type="rss" 
             xmlUrl="https://medium.com/feed/@adetaylor" htmlUrl="https://medium.com/@adetaylor?source=rss-a168554c7e0b------2"/>
+      <outline text="Alex Kladov" title="Alex Kladov" type="rss" 
+            xmlUrl="https://matklad.github.io/feed.xml" htmlUrl="https://matklad.github.io"/>
       <outline text="Amos (Fasterthanli)" title="Sitewide Atom feed" type="rss" 
             xmlUrl="https://fasterthanli.me/index.xml"/>
       <outline text="Analog Hors" title="Analog Hors - Writing" type="rss" 
@@ -18,6 +20,14 @@
             xmlUrl="https://apollolabsblog.hashnode.dev/rss.xml" htmlUrl="https://apollolabsblog.hashnode.dev"/>
       <outline text="Aria Beingessner (Faultlore)" title="Aria Beingessner (Faultlore)" type="rss" 
             xmlUrl="https://faultlore.com/blah/rss.xml" htmlUrl="https://gankra.github.io/blah/"/>
+      <outline text="Awesome Rust Weekly" title="Awesome Rust Weekly" type="rss" 
+            xmlUrl="https://rust.libhunt.com/newsletter/feed" htmlUrl="https://rust.libhunt.com/newsletter"/>
+      <outline text="Bevy" title="Bevy" type="rss" 
+            xmlUrl="https://bevyengine.org/atom.xml"/>
+      <outline text="bjorn3" title="bjorn3" type="rss" 
+            xmlUrl="https://bjorn3.github.io/feed.xml" htmlUrl="/"/>
+      <outline text="feedly" title="feedly blog" type="rss" 
+            xmlUrl="http://blog.feedly.com/feed/" htmlUrl="https://blog.feedly.com"/>
       <outline text="Ferrous Systems" title="Ferrous Systems" type="rss" 
             xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
       <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
@@ -28,6 +38,8 @@
             xmlUrl="https://jyn.dev/feed.xml" htmlUrl="http://jyn.dev/"/>
       <outline text="Kani Rust Verifier" title="Kani Rust Verifier" type="rss" 
             xmlUrl="https://model-checking.github.io//kani-verifier-blog/feed.xml" htmlUrl="https://model-checking.github.io//kani-verifier-blog/"/>
+      <outline text="Llogiq" title="Llogiq" type="rss" 
+            xmlUrl="https://llogiq.github.io/feed.xml" htmlUrl="https://llogiq.github.io/"/>
       <outline text="Luca Palmieri" title="Luca Palmieri" type="rss" 
             xmlUrl="https://www.lpalmieri.com/rss.xml" htmlUrl="https://www.lpalmieri.com"/>
       <outline text="Manish Goregaokar" title="Manish Goregaokar" type="rss" 
@@ -46,6 +58,10 @@
             xmlUrl="https://www.memorysafety.org/index.xml" htmlUrl="https://www.memorysafety.org/"/>
       <outline text="Quickwit" title="Quickwit" type="rss" 
             xmlUrl="https://quickwit.io/blog/rss.xml" htmlUrl="https://quickwit.io/blog"/>
+      <outline text="Ralf Jung" title="Ralf Jung" type="rss" 
+            xmlUrl="https://www.ralfj.de/blog/feed.xml"/>
+      <outline text="Redox" title="Redox" type="rss" 
+            xmlUrl="https://www.redox-os.org/news/index.xml" htmlUrl="https://www.redox-os.org/news/"/>
       <outline text="rust-analyzer" title="rust-analyzer" type="rss" 
             xmlUrl="https://rust-analyzer.github.io//feed.xml" htmlUrl="https://rust-analyzer.github.io//"/>
       <outline text="Rust Blog" title="Rust Blog" type="rss" 
@@ -54,6 +70,8 @@
             xmlUrl="https://foundation.rust-lang.org/feed/feed.xml"/>
       <outline text="Rust in Blockchain" title="Rust in Blockchain ❤ rib.rs" type="rss" 
             xmlUrl="https://rustinblockchain.org/./index.xml" htmlUrl="https://rustinblockchain.org/"/>
+      <outline text="Rust Magazine" title="Rust Magazine" type="rss" 
+            xmlUrl="https://rustmagazine.org/feed.xml" htmlUrl="https://rustmagazine.org"/>
       <outline text="Rust on Espressif chips" title="Rust on Espressif chips" type="rss" 
             xmlUrl="https://mabez.dev/rss.xml" htmlUrl="https://mabez.dev"/>
       <outline text="Rust OSDev" title="RSS feed for rust-osdev.com" type="rss" 
@@ -62,10 +80,12 @@
             xmlUrl="https://sanjuvi.github.io/Blog/index.xml" htmlUrl="https://sanjuvi.github.io/Blog/index.html"/>
       <outline text="The Coded Message" title="Welcome to The Coded Message! on The Coded Message" type="rss" 
             xmlUrl="https://www.thecodedmessage.com/index.xml"/>
-      <outline text="This Week in Rust" title="This Week in Rust - Full RSS Feed" type="rss" 
-            xmlUrl="https://this-week-in-rust.org/rss.xml" htmlUrl="https://this-week-in-rust.org/"/>
       <outline text="Sean McArthur" title="Sean McArthur" type="rss" 
             xmlUrl="https://seanmonstar.com/rss" htmlUrl="https://seanmonstar.com/"/>
+      <outline text="SeaQL" title="SeaQL" type="rss" 
+            xmlUrl="https://www.sea-ql.org/blog/rss.xml" htmlUrl="https://www.sea-ql.org/blog/"/>
+      <outline text="Servo" title="Servo" type="rss" 
+            xmlUrl="https://servo.org/blog/feed.xml"/>
       <outline text="Simonas Kazlauskas" title="Simonas Kazlauskas" type="rss" 
             xmlUrl="https://kazlauskas.me/./feed.atom"/>
       <outline text="Steve Klabnik" title="Steve Klabnik" type="rss" 
@@ -74,5 +94,9 @@
             xmlUrl="https://kerkour.com/feed.xml" htmlUrl="https://kerkour.com"/>
       <outline text="Tauri" title="Tauri Apps RSS Feed" type="rss" 
             xmlUrl="https://tauri.app/blog/rss.xml" htmlUrl="https://tauri.app/blog"/>
+      <outline text="This Week in Rust" title="This Week in Rust - Full RSS Feed" type="rss" 
+            xmlUrl="https://this-week-in-rust.org/rss.xml" htmlUrl="https://this-week-in-rust.org/"/>
+      <outline text="Tokio" title="Tokio" type="rss" 
+            xmlUrl="https://tokio.rs/_next/static/feed.xml" htmlUrl="https://tokio.rs"/>
 </body>
 </opml>
