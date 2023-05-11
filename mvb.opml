@@ -46,6 +46,8 @@
             xmlUrl="https://manishearth.github.io/atom.xml"/>
       <outline text="Mara Bos" title="Mara Bos" type="rss" 
             xmlUrl="https://blog.m-ou.se/index.xml" htmlUrl="https://blog.m-ou.se/"/>
+      <outline text="Meilisearch" title="Meilisearch" type="rss" 
+            xmlUrl="https://blog.meilisearch.com/rss/" htmlUrl="https://blog.meilisearch.com/"/>
       <outline text="Nazmul Idris" title="Nazmul Idris" type="rss" 
             xmlUrl="http://developerlife.com/feed.xml" htmlUrl="http://developerlife.com/"/>
       <outline text="Nick Cameron" title="Nick Cameron" type="rss" 
@@ -54,6 +56,8 @@
             xmlUrl="http://fitzgeraldnick.com/feed.xml" htmlUrl="http://fitzgeraldnick.com/"/>
       <outline text="Pascal Hertleif" title="Pascal&#39;s Scribbles" type="rss" 
             xmlUrl="https://deterministic.space//feed" htmlUrl="https://deterministic.space/"/>
+      <outline text="Predrag" title="Predrag" type="rss" 
+            xmlUrl="https://predr.ag/atom.xml"/>
       <outline text="Prossimo" title="Prossimo" type="rss" 
             xmlUrl="https://www.memorysafety.org/index.xml" htmlUrl="https://www.memorysafety.org/"/>
       <outline text="Quickwit" title="Quickwit" type="rss" 
@@ -78,8 +82,14 @@
             xmlUrl="https://rust-osdev.com/rss.xml" htmlUrl="https://rust-osdev.com"/>
       <outline text="Sanjeevi (fn main( ))" title="fn main( )" type="rss" 
             xmlUrl="https://sanjuvi.github.io/Blog/index.xml" htmlUrl="https://sanjuvi.github.io/Blog/index.html"/>
+      <outline text="Saoirse" title="Saoirse" type="rss" 
+            xmlUrl="https://without.boats/index.xml" htmlUrl="https://without.boats/"/>
+      <outline text="Tea and Bits" title="Tea and Bits" type="rss" 
+            xmlUrl="https://ohadravid.github.io/index.xml" htmlUrl="https://ohadravid.github.io/"/>
       <outline text="The Coded Message" title="Welcome to The Coded Message! on The Coded Message" type="rss" 
             xmlUrl="https://www.thecodedmessage.com/index.xml"/>
+      <outline text="The Way of the Crab" title="The Way of the Crab" type="rss" 
+            xmlUrl="https://wayofthecrab.com/rss.xml" htmlUrl="https://wayofthecrab.com/"/>
       <outline text="Sean McArthur" title="Sean McArthur" type="rss" 
             xmlUrl="https://seanmonstar.com/rss" htmlUrl="https://seanmonstar.com/"/>
       <outline text="SeaQL" title="SeaQL" type="rss" 
