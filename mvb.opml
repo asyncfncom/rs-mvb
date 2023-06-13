@@ -6,6 +6,8 @@
 <body>
       <outline text="0xHiro" title="0xHiro" type="rss" 
             xmlUrl="https://hiro.codes/index.xml" htmlUrl="https://hiro.codes"/>
+      <outline text="Adolfo Ochagavía" title="Adolfo Ochagavía" type="rss" 
+            xmlUrl="https://ochagavia.nl/blog/index.xml" htmlUrl="https://ochagavia.nl/blog/"/>
       <outline text="Adrian Taylor" title="RSS" type="rss" 
             xmlUrl="https://medium.com/feed/@adetaylor" htmlUrl="https://medium.com/@adetaylor?source=rss-a168554c7e0b------2"/>
       <outline text="Alex Kladov" title="Alex Kladov" type="rss" 
@@ -20,6 +22,8 @@
             xmlUrl="https://apollolabsblog.hashnode.dev/rss.xml" htmlUrl="https://apollolabsblog.hashnode.dev"/>
       <outline text="Aria Beingessner (Faultlore)" title="Aria Beingessner (Faultlore)" type="rss" 
             xmlUrl="https://faultlore.com/blah/rss.xml" htmlUrl="https://gankra.github.io/blah/"/>
+      <outline text="Arpad Borsos" title="Arpad Borsos" type="rss" 
+            xmlUrl="https://swatinem.de/atom.xml"/>
       <outline text="Awesome Rust Weekly" title="Awesome Rust Weekly" type="rss" 
             xmlUrl="https://rust.libhunt.com/newsletter/feed" htmlUrl="https://rust.libhunt.com/newsletter"/>
       <outline text="Bevy" title="Bevy" type="rss" 
@@ -30,6 +34,10 @@
             xmlUrl="http://blog.feedly.com/feed/" htmlUrl="https://blog.feedly.com"/>
       <outline text="Ferrous Systems" title="Ferrous Systems" type="rss" 
             xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
+      <outline text="Flecks of Rust" title="Flecks of Rust" type="rss" 
+            xmlUrl="https://coniferproductions.com/rust/flecks/atom.xml"/>
+      <outline text="HashRust" title="HashRust" type="rss" 
+            xmlUrl="https://hashrust.com/rss.xml" htmlUrl="https://hashrust.com"/>
       <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
             xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
       <outline text="Josh Mo" title="Rust and Web Dev with Josh" type="rss" 
@@ -48,12 +56,16 @@
             xmlUrl="https://blog.m-ou.se/index.xml" htmlUrl="https://blog.m-ou.se/"/>
       <outline text="Meilisearch" title="Meilisearch" type="rss" 
             xmlUrl="https://blog.meilisearch.com/rss/" htmlUrl="https://blog.meilisearch.com/"/>
+      <outline text="Miguel Young de la Sota" title="Miguel Young de la Sota" type="rss" 
+            xmlUrl="https://mcyoung.xyz/atom.xml"/>
       <outline text="Nazmul Idris" title="Nazmul Idris" type="rss" 
             xmlUrl="http://developerlife.com/feed.xml" htmlUrl="http://developerlife.com/"/>
       <outline text="Nick Cameron" title="Nick Cameron" type="rss" 
             xmlUrl="https://www.ncameron.org/blog/rss/" htmlUrl="https://www.ncameron.org/blog/"/>
       <outline text="Nick Fitzgerald" title="Nick Fitzgerald" type="rss" 
             xmlUrl="http://fitzgeraldnick.com/feed.xml" htmlUrl="http://fitzgeraldnick.com/"/>
+      <outline text="Oduah Chigozie" title="Oduah Chigozie" type="rss" 
+            xmlUrl="https://blog.logrocket.com/author/oduahchigozie/feed/" htmlUrl="https://blog.logrocket.com/author/oduahchigozie/"/>
       <outline text="Pascal Hertleif" title="Pascal&#39;s Scribbles" type="rss" 
             xmlUrl="https://deterministic.space//feed" htmlUrl="https://deterministic.space/"/>
       <outline text="Predrag" title="Predrag" type="rss" 
@@ -84,12 +96,6 @@
             xmlUrl="https://sanjuvi.github.io/Blog/index.xml" htmlUrl="https://sanjuvi.github.io/Blog/index.html"/>
       <outline text="Saoirse" title="Saoirse" type="rss" 
             xmlUrl="https://without.boats/index.xml" htmlUrl="https://without.boats/"/>
-      <outline text="Tea and Bits" title="Tea and Bits" type="rss" 
-            xmlUrl="https://ohadravid.github.io/index.xml" htmlUrl="https://ohadravid.github.io/"/>
-      <outline text="The Coded Message" title="Welcome to The Coded Message! on The Coded Message" type="rss" 
-            xmlUrl="https://www.thecodedmessage.com/index.xml"/>
-      <outline text="The Way of the Crab" title="The Way of the Crab" type="rss" 
-            xmlUrl="https://wayofthecrab.com/rss.xml" htmlUrl="https://wayofthecrab.com/"/>
       <outline text="Sean McArthur" title="Sean McArthur" type="rss" 
             xmlUrl="https://seanmonstar.com/rss" htmlUrl="https://seanmonstar.com/"/>
       <outline text="SeaQL" title="SeaQL" type="rss" 
@@ -104,8 +110,16 @@
             xmlUrl="https://kerkour.com/feed.xml" htmlUrl="https://kerkour.com"/>
       <outline text="Tauri" title="Tauri Apps RSS Feed" type="rss" 
             xmlUrl="https://tauri.app/blog/rss.xml" htmlUrl="https://tauri.app/blog"/>
+      <outline text="Tea and Bits" title="Tea and Bits" type="rss" 
+            xmlUrl="https://ohadravid.github.io/index.xml" htmlUrl="https://ohadravid.github.io/"/>
+      <outline text="The Coded Message" title="Welcome to The Coded Message! on The Coded Message" type="rss" 
+            xmlUrl="https://www.thecodedmessage.com/index.xml"/>
+      <outline text="The Way of the Crab" title="The Way of the Crab" type="rss" 
+            xmlUrl="https://wayofthecrab.com/rss.xml" htmlUrl="https://wayofthecrab.com/"/>
       <outline text="This Week in Rust" title="This Week in Rust - Full RSS Feed" type="rss" 
             xmlUrl="https://this-week-in-rust.org/rss.xml" htmlUrl="https://this-week-in-rust.org/"/>
+      <outline text="Tim McNamara" title="Tim McNamara" type="rss" 
+            xmlUrl="https://tim.mcnamara.nz/rss" htmlUrl="https://tim.mcnamara.nz/"/>
       <outline text="Tokio" title="Tokio" type="rss" 
             xmlUrl="https://tokio.rs/_next/static/feed.xml" htmlUrl="https://tokio.rs"/>
 </body>
